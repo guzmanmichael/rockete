@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rockete/static/css/main.662a329f.chunk.css",
+    "main.css": "/rockete/static/css/main.337631a8.chunk.css",
     "main.js": "/rockete/static/js/main.cc5d6577.chunk.js",
     "main.js.map": "/rockete/static/js/main.cc5d6577.chunk.js.map",
     "runtime-main.js": "/rockete/static/js/runtime-main.a1d8ad7d.js",
@@ -8,15 +8,15 @@
     "static/js/2.df40d7b4.chunk.js": "/rockete/static/js/2.df40d7b4.chunk.js",
     "static/js/2.df40d7b4.chunk.js.map": "/rockete/static/js/2.df40d7b4.chunk.js.map",
     "index.html": "/rockete/index.html",
-    "precache-manifest.79301b7e3cca70efaa2210be5cd7f25e.js": "/rockete/precache-manifest.79301b7e3cca70efaa2210be5cd7f25e.js",
+    "precache-manifest.68b2d35f4710f56d87f9f10626bfc6ae.js": "/rockete/precache-manifest.68b2d35f4710f56d87f9f10626bfc6ae.js",
     "service-worker.js": "/rockete/service-worker.js",
-    "static/css/main.662a329f.chunk.css.map": "/rockete/static/css/main.662a329f.chunk.css.map",
+    "static/css/main.337631a8.chunk.css.map": "/rockete/static/css/main.337631a8.chunk.css.map",
     "static/js/2.df40d7b4.chunk.js.LICENSE.txt": "/rockete/static/js/2.df40d7b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a1d8ad7d.js",
     "static/js/2.df40d7b4.chunk.js",
-    "static/css/main.662a329f.chunk.css",
+    "static/css/main.337631a8.chunk.css",
     "static/js/main.cc5d6577.chunk.js"
   ]
 }
