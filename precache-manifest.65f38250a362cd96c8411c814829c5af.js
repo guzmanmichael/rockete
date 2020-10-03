@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05892e0076825090133a51e9add3142d",
+    "revision": "8dbcc1ee879fc353532b9c71b8f33999",
     "url": "/rockete/index.html"
   },
   {
-    "revision": "61b4822c110aca2f82d5",
-    "url": "/rockete/static/css/main.4bac1a35.chunk.css"
+    "revision": "6b3d58be9e55e8815acc",
+    "url": "/rockete/static/css/main.b835d72e.chunk.css"
   },
   {
     "revision": "ccd5738cd8591b3081be",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rockete/static/js/2.df40d7b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61b4822c110aca2f82d5",
-    "url": "/rockete/static/js/main.0a545ed7.chunk.js"
+    "revision": "6b3d58be9e55e8815acc",
+    "url": "/rockete/static/js/main.cc5d6577.chunk.js"
   },
   {
     "revision": "b6354a1d476d897fffce",
